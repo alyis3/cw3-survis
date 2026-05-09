@@ -12,7 +12,7 @@ const userDefinedAuthorizedTags = {
     "color": "#9B2F6E"
   },
 
-  "cat:ITS": {
+  "cat:its": {
     "description": "2.4 ITS and AI in Education",
     "color": "#D4820A"
   },
