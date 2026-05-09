@@ -1,0 +1,120 @@
+﻿const generatedBibEntries = {
+    "alhossami2023": {
+        "abstract": "This paper constructs a benchmark dataset of real Socratic dialogues between tutors and novice debuggers, then evaluates GPT-4 and GPT-3.5 against human experts using Precision and Recall metrics.",
+        "author": "Al-Hossami, E. and Bunescu, R. and Smith, J. and Teehan, R.",
+        "booktitle": "Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications",
+        "doi": "10.18653/v1/2023.bea-1.57",
+        "keywords": "cat:Socratic, debugging, benchmark, LLM, GPT-4, programming education",
+        "publisher": "Association for Computational Linguistics",
+        "series": "BEA 2023",
+        "title": "Socratic Questioning of Novice Debuggers: A Benchmark Dataset and Preliminary Evaluations",
+        "type": "inproceedings",
+        "year": "2023"
+    },
+    "chotzen2019": {
+        "abstract": "This study investigates the mental models of undergraduate programmers when working with linked lists, using think-aloud interviews to reveal gaps between procedural fluency and conceptual understanding of pointer reassignment.",
+        "author": "Chotzen, K. and Johnson, A. and Desai, T.",
+        "booktitle": "Proceedings of the 50th ACM Technical Symposium on Computer Science Education",
+        "doi": "10.1145/3287324.3293862",
+        "keywords": "cat:linked lists, mental models, empirical study, CS education, qualitative",
+        "publisher": "ACM",
+        "series": "SIGCSE 2019",
+        "title": "Exploring the Mental Models of Undergraduate Programmers in the Context of Linked Lists",
+        "type": "inproceedings",
+        "year": "2019"
+    },
+    "elnaffar2026": {
+        "abstract": "A systematic review of 58 peer-reviewed studies from 2022 to 2025 on AI tools in programming education, categorised into chatbots, generative AI, and ITS, finding over-reliance in 65.52 percent of studies.",
+        "author": "Elnaffar, S. and others",
+        "doi": "10.26803/ijlter.25.1.1",
+        "journal": "International Journal of Learning, Teaching and Educational Research",
+        "keywords": "cat:ITS, systematic review, AI tools, chatbots, GenAI, programming education, over-reliance",
+        "number": "1",
+        "title": "Teaching with AI: A Systematic Review of Chatbots, Generative Tools, and Tutoring Systems in Programming Education",
+        "type": "article",
+        "volume": "25",
+        "year": "2026"
+    },
+    "gupta2026": {
+        "abstract": "Sakshm AI evaluates Disha, a Socratic chatbot for coding education, using logs from 1170 users, a survey of 45 active users, and 25 in-depth interviews, revealing that Socratic guidance promotes independent thinking.",
+        "author": "Gupta, S. and others",
+        "doi": "10.1145/3788679",
+        "journal": "ACM Transactions on Computing Education",
+        "keywords": "cat:Socratic, chatbot, AI, programming education, feedback, mixed methods",
+        "title": "Sakshm AI: Advancing AI-Assisted Coding Education for Engineering Students in India Through Socratic Tutoring and Comprehensive Feedback",
+        "type": "article",
+        "year": "2026"
+    },
+    "kazemitabaar2024": {
+        "abstract": "CodeAid is an LLM-based programming assistant deployed in a real classroom setting for a full semester, evaluated through interaction logs and qualitative surveys with students and educators.",
+        "author": "Kazemitabaar, M. and Ye, R. and Wang, X. and Henley, A. Z. and Denny, P. and Craig, M. and Grossman, T.",
+        "booktitle": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+        "doi": "10.1145/3613904.3642773",
+        "keywords": "cat:ITS, LLM, programming assistant, classroom deployment, feedback, CS education, mixed methods",
+        "publisher": "ACM",
+        "series": "CHI 2024",
+        "title": "CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs",
+        "type": "inproceedings",
+        "year": "2024"
+    },
+    "mousavinasab2018": {
+        "abstract": "A PRISMA-based systematic review of 53 ITS studies published between 2007 and 2017, covering AI techniques, educational domains, learner modelling, and evaluation methods across eight variables.",
+        "author": "Mousavinasab, E. and others",
+        "doi": "10.1080/10494820.2018.1558257",
+        "journal": "Interactive Learning Environments",
+        "keywords": "cat:ITS, systematic review, PRISMA, CS education, evaluation",
+        "number": "1",
+        "pages": "142--163",
+        "publisher": "Taylor and Francis",
+        "title": "Intelligent Tutoring Systems: A Systematic Review of Characteristics, Applications, and Evaluation Methods",
+        "type": "article",
+        "volume": "29",
+        "year": "2018"
+    },
+    "narciss2013": {
+        "abstract": "The ITF model provides a multidimensional theoretical framework for designing tutoring feedback in digital environments, distinguishing between simple knowledge-of-result feedback and elaborated tutoring feedback.",
+        "author": "Narciss, S.",
+        "booktitle": "International Handbook of Metacognition and Learning Technologies",
+        "keywords": "cat:feedback, ITF model, theoretical framework, digital learning, tutoring",
+        "publisher": "Springer",
+        "title": "Designing and Evaluating Tutoring Feedback Strategies for Digital Learning Environments on the Basis of the Interactive Tutoring Feedback Model}\u0648",
+        "type": "incollection",
+        "year": "2013"
+    },
+    "phung2024": {
+        "abstract": "GPT4Hints-GPT3.5Val is a two-stage system using GPT-4 as a tutor to generate hints and GPT-3.5 as a simulated student to validate quality, achieving 95 percent precision and over 70 percent coverage.",
+        "author": "Phung, T. and others",
+        "booktitle": "Proceedings of the 14th International Learning Analytics and Knowledge Conference",
+        "doi": "10.1145/3636555.3636846",
+        "keywords": "cat:feedback, GPT-4, hint generation, validation, benchmark, programming education, LLM",
+        "publisher": "ACM",
+        "series": "LAK 2024",
+        "title": "Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation",
+        "type": "inproceedings",
+        "year": "2024"
+    },
+    "rao2022": {
+        "abstract": "BlockList is an interactive drag-and-drop educational game built in Unity 3D that uses pattern-matching as an analogy for pointer operations in singly linked lists, evaluated with 15 first-year students.",
+        "author": "Rao, N. J. and others",
+        "booktitle": "Proceedings of the 27th ACM Conference on Innovation and Technology in Computer Science Education",
+        "doi": "10.1145/3561833.3561844",
+        "keywords": "cat:linked lists, game-based learning, prototype, novice programmers, CS education",
+        "publisher": "ACM",
+        "series": "ITiCSE 2022",
+        "title": "BlockList: A Game to Teach Basic Linked Lists Operations to Novice Programmers",
+        "type": "inproceedings",
+        "year": "2022"
+    },
+    "roest2024": {
+        "abstract": "The StAP-tutor system uses GPT-3.5-turbo via prompt engineering to generate next-step hints for introductory Python exercises, evaluated through a user study with three students and two expert assessors.",
+        "author": "Roest, J. and Keuning, H. and Jeuring, J.",
+        "booktitle": "Proceedings of the 26th Australasian Computing Education Conference",
+        "doi": "10.1145/3636243.3636259",
+        "keywords": "cat:feedback, hint generation, LLM, GPT-3.5, next-step hints, introductory programming ",
+        "publisher": "ACM",
+        "series": "ACE 2024",
+        "title": "Next-Step Hint Generation for Introductory Programming Using Large Language Models",
+        "type": "inproceedings",
+        "year": "2024"
+    }
+};
