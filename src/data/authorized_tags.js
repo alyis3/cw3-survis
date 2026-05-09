@@ -2,7 +2,7 @@ const userDefinedAuthorizedTags = {
 	"type:system": {
 		"description": "paper describing a system"
 	},
-	"cat:linked-lists": {
+	"cat:linked lists": {
     "description": "2.2 Teaching Linked Lists",
     "color": "#2E86AB"
   },
