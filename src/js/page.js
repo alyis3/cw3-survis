@@ -10,6 +10,12 @@ const page = (function () {
             initResult();
             initFooter();
             addActions();
+            setTimeout(function() {
+              selectors.toggleSelector('keywords', 'cat:linked-lists');
+              selectors.toggleSelector('keywords', 'cat:socratic');
+              selectors.toggleSelector('keywords', 'cat:ITS');
+              selectors.toggleSelector('keywords', 'cat:feedback');
+            }, 1500);
             page.generateTooltips($('body'));
         },
         update: function (scrollToTop) {
