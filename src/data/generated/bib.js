@@ -11,19 +11,20 @@
         "type": "inproceedings",
         "year": "2023"
     },
-    "chotzen2019": {
-        "abstract": "This study investigates the mental models of undergraduate programmers when working with linked lists, using think-aloud interviews to reveal gaps between procedural fluency and conceptual understanding of pointer reassignment.",
-        "author": "Chotzen, K. and Johnson, A. and Desai, T.",
-        "booktitle": "Proceedings of the 50th ACM Technical Symposium on Computer Science Education",
-        "doi": "10.1145/3287324.3293862",
-        "keywords": "cat:linked lists, mental models, empirical study, CS education, qualitative",
-        "publisher": "ACM",
-        "series": "SIGCSE 2019",
-        "title": "Exploring the Mental Models of Undergraduate Programmers in the Context of Linked Lists",
-        "type": "inproceedings",
-        "year": "2019"
+    "almadhoun2023": {
+        "abstract": "Since linked lists serve as a bridge to understanding more advanced data structures, we believe that it is critical to identify students\u2019 misunderstandings early. We found that students had a good conceptual understanding of how to insert and delete nodes in a singly linked list in C. However, many students continued to struggle with C syntax, pointer manipulation, and memory management needed to correctly implement singly linked lists. Students reported that the abstract nature of pointers, relating linked lists to the real world, and prior knowledge about dynamic arrays contributed the most to their difficulties with linked lists in C.",
+        "author": "Eman Almadhoun and Jennifer Parham-Mocello",
+        "doi": "10.1016/j.cola.2022.101184",
+        "issn": "2590-1184",
+        "journal": "Journal of Computer Languages",
+        "keywords": "cat:linked lists, Data structures,  C programming language, Reasoning, Misunderstandings",
+        "pages": "101184",
+        "title": "Students\u2019 difficulties with inserting and deleting nodes in a singly linked list in the C programming language",
+        "type": "article",
+        "volume": "74",
+        "year": "2023"
     },
-    "elnaffar2026": {
+    "elnaffar2025": {
         "abstract": "A systematic review of 58 peer-reviewed studies from 2022 to 2025 on AI tools in programming education, categorised into chatbots, generative AI, and ITS, finding over-reliance in 65.52 percent of studies.",
         "author": "Elnaffar, S. and others",
         "doi": "10.26803/ijlter.25.1.1",
@@ -33,11 +34,11 @@
         "title": "Teaching with AI: A Systematic Review of Chatbots, Generative Tools, and Tutoring Systems in Programming Education",
         "type": "article",
         "volume": "25",
-        "year": "2026"
+        "year": "2025"
     },
-    "gupta2026": {
+    "goyal2026": {
         "abstract": "Sakshm AI evaluates Disha, a Socratic chatbot for coding education, using logs from 1170 users, a survey of 45 active users, and 25 in-depth interviews, revealing that Socratic guidance promotes independent thinking.",
-        "author": "Gupta, S. and others",
+        "author": "Goyal, G. and others",
         "doi": "10.1145/3788679",
         "journal": "ACM Transactions on Computing Education",
         "keywords": "cat:Socratic, chatbot, AI, programming education, feedback, mixed methods",
@@ -57,7 +58,7 @@
         "type": "inproceedings",
         "year": "2024"
     },
-    "mousavinasab2018": {
+    "mousavinasab2021": {
         "abstract": "A PRISMA-based systematic review of 53 ITS studies published between 2007 and 2017, covering AI techniques, educational domains, learner modelling, and evaluation methods across eight variables.",
         "author": "Mousavinasab, E. and others",
         "doi": "10.1080/10494820.2018.1558257",
@@ -69,7 +70,7 @@
         "title": "Intelligent Tutoring Systems: A Systematic Review of Characteristics, Applications, and Evaluation Methods",
         "type": "article",
         "volume": "29",
-        "year": "2018"
+        "year": "2021"
     },
     "narciss2013": {
         "abstract": "The ITF model provides a multidimensional theoretical framework for designing tutoring feedback in digital environments, distinguishing between simple knowledge-of-result feedback and elaborated tutoring feedback.",
